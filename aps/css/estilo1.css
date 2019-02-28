@@ -1,0 +1,186 @@
+body{
+	font-size: 100%;
+}
+#formpad{
+	padding-left:172px;
+	height:780px!important;
+	width:90%;
+	
+}
+.formeu{
+
+}
+#segundoh1{
+	background-attachment:fixed;
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	padding:109px 0 0 0;
+	color:#fff;
+	width:99.57vw;
+	height:700px;
+}
+#contatos{
+	padding:109px 0 0 0;
+}
+.contatoesuporte{
+	font-size:60pt; z-index: 5; font-style:italic; line-height:94px;
+	
+}
+#EntreEm{
+	font-size:47pt;
+	font-style:italic;
+	font-weight:lighter;
+	z-index: 5;     
+	line-height: 1.2;
+	font-family: "Arial";
+}
+.formulario{
+	font-family:Arial;
+	font-size: 16pt;
+	color: grey;
+	font-style:italic;
+}
+.formularioTA{
+	width:300px;
+	font-family:Arial;
+	font-size: 16pt;
+	color: grey;
+	font-style:italic;
+}
+.formmsg{
+	font-family:Arial;
+	font-size: 40pt;
+	color: black;
+	font-style:italic;
+	padding-left:172px;
+}
+
+#formpad{
+	padding-left:172px;
+	height:700px;
+	
+}
+.control-group{
+	margin:30px;
+}
+
+#inputNome{
+	height:24px;
+	width:292px;
+	border-radius:11px;
+	}
+	
+#inputSobrenome{
+	height:24px;
+	width:292px;
+	border-radius:11px;
+}
+#inputEmail{
+	height:24px;
+	width:865px;
+	border-radius:11px;
+}
+
+#inputDigite{
+	border-radius:11px;	
+	height:300px;
+	width:865px;
+
+}
+.formSobrenome{
+	position:absolute;
+	margin-top:-52px;
+	margin-left:572px;
+	
+}
+
+@media (max-width:600px){
+#segundoh1{
+	background-attachment:fixed;
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	padding:0 0 0 0;
+	color:#fff;
+	width:auto;
+	height:100%;
+}
+
+#contatos{
+	padding:109px 0 0 0;
+}
+.contatoesuporte{
+	font-size:46pt; z-index: 5; font-style:italic; line-height:94px;
+	
+}
+#EntreEm{
+	color:red!;
+	font-size:32pt;
+	font-style:italic;
+	font-weight:lighter;
+	z-index: 5;     
+	line-height: 1.2;
+	font-family: "Arial";
+}
+.formulario{
+	font-family:Arial;
+	font-size: 16pt;
+	color: grey;
+	font-style:italic;
+}
+.formularioTA{
+	width:300px;
+	font-family:Arial;
+	font-size: 16pt;
+	color: grey;
+	font-style:italic;
+}
+.formmsg{
+	font-family:Arial;
+	font-size: 20pt;
+	color: black;
+	font-style:italic;
+	padding:0 0 0 0;
+}
+
+#formpad{
+	padding:0 0 0 0;
+	height:750px;
+}
+
+
+#inputNome{
+	height:100%;
+	width:100%;
+	border-radius:11px;
+	}
+	
+#inputSobrenome{
+	height:100%;
+	width:100%;
+	border-radius:11px;
+}
+#inputEmail{
+	height:100%;
+	width:100%;
+	border-radius:11px;
+}
+
+#inputDigite{
+	border-radius:11px;	
+	height:282px;
+	width:100%;
+}
+.formSobrenome{
+	position:static;
+	
+	margin-top:0;
+	margin-left:30px;
+	
+}	
+.formeu{
+	margin-bottom:130px;
+}
+	
+}
